@@ -22,4 +22,4 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at wanchen3210@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at zff2319080986@gmail.com.
