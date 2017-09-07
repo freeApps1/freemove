@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Free Movie
-email: wanchen3210@gmail.com
+title: MoviePlayer
+email: zff2319080986@gmail.com
 
 # Build settings
 markdown: kramdown
